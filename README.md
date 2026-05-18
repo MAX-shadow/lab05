@@ -1,5 +1,8 @@
 ## Laboratory work V
 
+[![CI](https://github.com/MAX-shadow/lab05/actions/workflows/ci.yml/badge.svg)](https://github.com/MAX-shadow/lab05/actions/workflows/ci.yml)
+[![Coverage Status](https://coveralls.io/repos/github/MAX-shadow/lab05/badge.svg?branch=master)](https://coveralls.io/github/MAX-shadow/lab05?branch=master)
+
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
 ```sh
